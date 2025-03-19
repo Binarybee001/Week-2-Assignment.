@@ -18,7 +18,7 @@ new_list=[50,60,70]
 my_list.extend(new_list)
 print(my_list)
 
-#Removing elments from my_list list
+#Removing elements from my_list list
 my_list.remove(my_list[-1])
 print(my_list)
 
